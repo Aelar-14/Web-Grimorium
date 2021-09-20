@@ -1,0 +1,13 @@
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: #90EE90;
+}
+.aramis{
+      background-image: url("./sprite 1.png");
+      height: 250px; 
+      width: 300px; 
+      position: translate(+100, 0)
+      
+}
+
