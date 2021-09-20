@@ -17,6 +17,7 @@ if (tecla==65) {
  }else if (tecla==68){
 		dirx=+1;
  }
+}
 function teclaUp(){
 		var tecla=event.KeyCode;
 		if ((tecla==87)||(tecla==83)){
@@ -60,4 +61,5 @@ function inicia(){
  jog.style.top=pjy+"px";
  jog.style.left=pjx+"px";
  game();
+}
 }
